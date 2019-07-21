@@ -1,0 +1,608 @@
+Gender,Event,Location,Year,Gold,Silver,Bronze,Name,Nationality,Result
+M,10000M,Rome,1960,,,B,David POWER,AUS,0:28:38
+M,10000M,Tokyo,1964,,,B,Ron CLARKE,AUS,0:28:26
+M,10000M,Melbourne / Stockholm,1956,,,B,Allan LAWRENCE,AUS,0:28:54
+M,10000M,Munich,1972,,S,,Emiel PUTTEMANS,BEL,0:27:40
+W,10000M,Atlanta,1996,,S,,Junxia WANG,CHN,0:31:03
+W,10000M,Athens,2004,G,,,Huina XING,CHN,0:30:24
+M,10000M,Athens,2004,,,B,Zersenay TADESE,ERI,0:27:23
+M,10000M,Beijing,2008,,S,,Sileshi SIHINE,ETH,0:27:03
+M,10000M,Mexico,1968,,S,,Mamo WOLDE,ETH,0:29:28
+M,10000M,Athens,2004,,S,,Sileshi SIHINE,ETH,0:27:09
+W,10000M,Sydney,2000,,S,,Gete WAMI,ETH,0:30:22
+W,10000M,Athens,2004,,S,,Ejegayehu DIBABA,ETH,0:30:25
+M,10000M,Beijing,2008,G,,,Kenenisa BEKELE,ETH,0:27:01
+M,10000M,Sydney,2000,G,,,Haile GEBRSELASSIE,ETH,0:27:18
+M,10000M,Athens,2004,G,,,Kenenisa BEKELE,ETH,0:27:05
+M,10000M,Atlanta,1996,G,,,Haile GEBRSELASSIE,ETH,0:27:07
+M,10000M,Moscow,1980,G,,,Miruts YIFTER,ETH,0:27:43
+W,10000M,Rio,2016,G,,,Almaz AYANA,ETH,0:29:17
+W,10000M,Beijing,2008,G,,,Tirunesh DIBABA,ETH,0:29:55
+W,10000M,Sydney,2000,G,,,Derartu TULU,ETH,0:30:18
+W,10000M,Barcelona,1992,G,,,Derartu TULU,ETH,0:31:06
+W,10000M,London,2012,G,,,Tirunesh DIBABA,ETH,0:30:21
+M,10000M,Rio,2016,,,B,Tamirat TOLA,ETH,0:27:06
+M,10000M,Sydney,2000,,,B,Assefa MEZGEBU,ETH,0:27:20
+M,10000M,Barcelona,1992,,,B,Addis ABEBE,ETH,0:28:00
+M,10000M,London,2012,,,B,Tariku BEKELE,ETH,0:27:31
+M,10000M,Moscow,1980,,,B,Mohammed KEDIR,ETH,0:27:45
+M,10000M,Munich,1972,,,B,Miruts YIFTER,ETH,0:27:41
+W,10000M,Rio,2016,,,B,Tirunesh DIBABA,ETH,0:29:43
+W,10000M,Athens,2004,,,B,Derartu TULU,ETH,0:30:26
+W,10000M,Atlanta,1996,,,B,Gete WAMI,ETH,0:31:07
+M,10000M,Rome,1960,,S,,Hans GRODOTZKI,EUA,0:28:37
+M,10000M,Berlin,1936,,S,,Arvo ASKOLA,FIN,0:30:16
+M,10000M,Amsterdam,1928,,S,,Ville RITOLA,FIN,0:30:19
+M,10000M,Moscow,1980,,S,,Kaarlo MAANINKA,FIN,0:27:44
+M,10000M,Los Angeles,1932,,S,,Volmari ISO-HOLLO,FIN,0:30:13
+M,10000M,Montreal,1976,G,,,Lasse VIREN,FIN,0:27:40
+M,10000M,Berlin,1936,G,,,Ilmari SALMINEN,FIN,0:30:15
+M,10000M,Amsterdam,1928,G,,,Paavo NURMI,FIN,0:30:19
+M,10000M,Antwerp,1920,G,,,Paavo NURMI,FIN,0:31:46
+M,10000M,Munich,1972,G,,,Lasse VIREN,FIN,0:27:38
+M,10000M,Paris,1924,G,,,Ville RITOLA,FIN,0:30:23
+M,10000M,Stockholm,1912,G,,,Hannes KOLEHMAINEN,FIN,0:31:21
+M,10000M,Berlin,1936,,,B,Volmari ISO-HOLLO,FIN,0:30:20
+M,10000M,Los Angeles,1932,,,B,Lauri VIRTANEN,FIN,0:30:35
+M,10000M,Paris,1924,,,B,Eero BERG,FIN,0:31:43
+M,10000M,Stockholm,1912,,,B,Albin STENROOS,FIN,0:32:22
+M,10000M,Helsinki,1952,,S,,Alain MIMOUN,FRA,0:29:33
+M,10000M,Antwerp,1920,,S,,Joseph GUILLEMOT,FRA,0:31:47
+M,10000M,London,1948,,S,,Alain MIMOUN,FRA,0:30:47
+M,10000M,Los Angeles,1984,,S,,Michael MCLEOD,GBR,0:28:06
+M,10000M,Rio,2016,G,S,,Mohamed FARAH,GBR,0:25:05
+M,10000M,London,2012,G,,,Mohamed FARAH,GBR,0:27:30
+M,10000M,Montreal,1976,,,B,Brendan FOSTER,GBR,0:27:55
+M,10000M,Antwerp,1920,,,B,James WILSON,GBR,0:31:51
+M,10000M,Melbourne / Stockholm,1956,,S,,JÃ³zsef KOVÃCS,HUN,0:28:52
+M,10000M,Los Angeles,1984,G,,,Alberto COVA,ITA,0:27:48
+M,10000M,Rio,2016,,S,,Paul Kipngetich TANUI,KEN,0:27:06
+M,10000M,Sydney,2000,,S,,Paul TERGAT,KEN,0:27:18
+M,10000M,Barcelona,1992,,S,,Richard CHELIMO,KEN,0:27:48
+M,10000M,Atlanta,1996,,S,,Paul TERGAT,KEN,0:27:08
+W,10000M,Rio,2016,,S,,Vivian Jepkemoi CHERUIYOT,KEN,0:29:33
+W,10000M,London,2012,,S,,Sally Jepkosgei KIPYEGO,KEN,0:30:26
+M,10000M,Mexico,1968,G,,,Naftali TEMU,KEN,0:29:27
+M,10000M,Beijing,2008,,,B,Micah KOGO,KEN,0:27:04
+M,10000M,Los Angeles,1984,,,B,Michael MUSYOKI,KEN,0:28:07
+W,10000M,London,2012,,,B,Vivian Jepkemoi CHERUIYOT,KEN,0:30:30
+M,10000M,Barcelona,1992,G,,,Khalid SKAH,MAR,0:27:47
+M,10000M,Atlanta,1996,,,B,Salah HISSOU,MAR,0:27:25
+M,10000M,Los Angeles,1932,G,,,Janusz KUSOCINSKI,POL,0:30:11
+M,10000M,Montreal,1976,,S,,Carlos LOPES,POR,0:27:45
+W,10000M,Atlanta,1996,G,,,Fernanda RIBEIRO,POR,0:31:02
+W,10000M,Sydney,2000,,,B,Fernanda RIBEIRO,POR,0:30:23
+W,10000M,Barcelona,1992,,S,,Elana MEYER,RSA,0:31:12
+M,10000M,Paris,1924,,S,,Edvin WIDE,SWE,0:30:55
+M,10000M,Amsterdam,1928,,,B,Edvin WIDE,SWE,0:31:01
+M,10000M,London,1948,,,B,Bertil ALBERTSSON,SWE,0:30:54
+M,10000M,Helsinki,1952,G,,,Emil ZÃTOPEK,TCH,0:29:17
+M,10000M,London,1948,G,,,Emil ZÃTOPEK,TCH,0:30:00
+M,10000M,Tokyo,1964,,S,,Mohamed GAMMOUDI,TUN,0:28:25
+M,10000M,Mexico,1968,,,B,Mohamed GAMMOUDI,TUN,0:29:34
+W,10000M,Beijing,2008,,S,,Elvan ABEYLEGESSE,TUR,0:29:56
+M,10000M,Rome,1960,G,,,Pyotr BOLOTNIKOV,URS,0:28:32
+M,10000M,Melbourne / Stockholm,1956,G,,,Vladimir KUTS,URS,0:28:46
+M,10000M,Helsinki,1952,,,B,Aleksandr ANUFRIYEV,URS,0:29:48
+M,10000M,London,2012,,S,,Galen RUPP,USA,0:27:31
+M,10000M,Stockholm,1912,,S,,Lewis TEWANIMA,USA,0:32:07
+M,10000M,Tokyo,1964,G,,,Billy MILLS,USA,0:28:24
+W,10000M,Beijing,2008,,,B,Shalane FLANAGAN,USA,0:30:22
+W,10000M,Barcelona,1992,,,B,Lynn JENNINGS,USA,0:31:20
+M,1500M,Rio,2016,,S,,Taoufik MAKHLOUFI,ALG,0:03:50
+M,1500M,London,2012,G,,,Taoufik MAKHLOUFI,ALG,0:03:34
+M,1500M,Atlanta,1996,G,,,Noureddine MORCELI,ALG,0:03:36
+W,1500M,Sydney,2000,G,,,Nouria MERAH-BENIDA,ALG,0:04:05
+W,1500M,Barcelona,1992,G,,,Hassiba BOULMERKA,ALG,0:03:55
+M,1500M,Rome,1960,G,,,Herb ELLIOTT,AUS,0:03:36
+M,1500M,Athens,1896,G,,,Edwin FLACK,AUS,0:04:33
+M,1500M,Melbourne / Stockholm,1956,,,B,John LANDY,AUS,0:03:42
+W,1500M,Atlanta,1996,,,B,Theresia KIESL,AUT,0:04:03
+M,1500M,Montreal,1976,,S,,Ivo VAN DAMME,BEL,0:03:39
+W,1500M,London,2012,,,B,Maryam Yusuf JAMAL,BRN,0:04:11
+M,1500M,Los Angeles,1932,,,B,Philip EDWARDS,CAN,None
+W,1500M,Barcelona,1992,,,B,Yunxia QU,CHN,0:03:57
+M,1500M,Atlanta,1996,,S,,Fermin CACHO RUIZ,ESP,0:03:36
+M,1500M,Barcelona,1992,G,,,Fermin CACHO RUIZ,ESP,0:03:40
+M,1500M,Los Angeles,1984,,,B,JosÃ© Manuel ABASCAL,ESP,0:03:34
+W,1500M,Rio,2016,,S,,Genzebe DIBABA,ETH,0:04:10
+M,1500M,Melbourne / Stockholm,1956,,S,,Klaus RICHTZENHAIN,EUA,0:03:42
+W,1500M,Barcelona,1992,,S,,Lyudmila ROGACHOVA,EUN,0:03:57
+M,1500M,Amsterdam,1928,G,,,Harri LARVA,FIN,0:03:53
+M,1500M,Munich,1972,G,,,Pekka VASALA,FIN,0:03:36
+M,1500M,Paris,1924,G,,,Paavo NURMI,FIN,0:03:54
+M,1500M,Amsterdam,1928,,,B,Eino PURJE,FIN,0:03:56
+M,1500M,Rome,1960,,S,,Michel JAZY,FRA,0:03:38
+M,1500M,Amsterdam,1928,,S,,Jules LADOUMEGUE,FRA,0:03:54
+M,1500M,Paris,1900,,S,,Henri DELOGE,FRA,0:04:07
+M,1500M,Beijing,2008,,,B,Medhi BAALA,FRA,0:03:34
+M,1500M,Athens,1896,,,B,Albin LERMUSIAUX,FRA,0:04:36
+M,1500M,Montreal,1976,,,B,Paul-Heinz WELLMANN,FRG,0:03:39
+M,1500M,Mexico,1968,,,B,Bodo TÃMMLER,FRG,0:03:39
+M,1500M,Los Angeles,1984,,S,,Steve CRAM,GBR,0:03:33
+M,1500M,Antwerp,1920,,S,,Philip BAKER,GBR,0:04:02
+M,1500M,London,1908,,S,,Harold WILSON,GBR,0:04:04
+M,1500M,Los Angeles,1932,,S,,John CORNES,GBR,0:03:53
+M,1500M,Los Angeles,1984,G,,,Sebastian COE,GBR,0:03:33
+M,1500M,Antwerp,1920,G,,,Albert HILL,GBR,0:04:02
+M,1500M,Paris,1900,G,,,Charles BENNETT,GBR,0:04:06
+M,1500M,Moscow,1980,G,,,Sebastian COE,GBR,0:03:38
+M,1500M,Stockholm,1912,G,,,Arnold JACKSON,GBR,0:03:57
+W,1500M,Athens,2004,G,,,Kelly HOLMES,GBR,0:03:58
+M,1500M,London,1908,,,B,Norman HALLOWS,GBR,0:04:04
+M,1500M,Moscow,1980,,,B,Steve OVETT,GBR,0:03:39
+M,1500M,Paris,1924,,,B,Henry STALLARD,GBR,0:03:56
+M,1500M,Moscow,1980,,S,,JÃ¼rgen STRAUB,GDR,0:03:39
+W,1500M,Montreal,1976,,S,,Gunhild HOFFMEISTER,GDR,0:04:06
+W,1500M,Moscow,1980,,S,,Christiane STOLL-WARTENBERG,GDR,0:03:58
+W,1500M,Munich,1972,,S,,Gunhild HOFFMEISTER,GDR,0:04:03
+W,1500M,Montreal,1976,,,B,Ulrike KLAPEZYNSKI-BRUNS,GDR,0:04:06
+M,1500M,Helsinki,1952,,,B,Werner LUEG,GER,0:03:45
+M,1500M,Rome,1960,,,B,IstvÃ¡n RÃZSAVÃLGYI,HUN,0:03:39
+M,1500M,Melbourne / Stockholm,1956,G,,,Ron DELANY,IRL,0:03:41
+M,1500M,Los Angeles,1932,G,,,Luigi BECCALI,ITA,0:03:51
+W,1500M,Los Angeles,1984,G,,,Gabriella DORIO,ITA,0:04:03
+M,1500M,Berlin,1936,,,B,Luigi BECCALI,ITA,0:03:49
+W,1500M,Munich,1972,,,B,Paola PIGNI-CACCHI,ITA,0:04:03
+M,1500M,Athens,2004,,S,,Bernard LAGAT,KEN,0:03:34
+M,1500M,Munich,1972,,S,,Kip KEINO,KEN,0:03:37
+M,1500M,Beijing,2008,G,,,Asbel Kipruto KIPROP,KEN,0:03:33
+M,1500M,Sydney,2000,G,,,Noah Kiprono NGENYI,KEN,0:03:32
+M,1500M,Mexico,1968,G,,,Kip KEINO,KEN,0:03:35
+W,1500M,Rio,2016,G,,,Faith Chepngetich KIPYEGON,KEN,0:04:09
+W,1500M,Beijing,2008,G,,,Nancy Jebet LAGAT,KEN,0:04:00
+M,1500M,Sydney,2000,,,B,Bernard LAGAT,KEN,0:03:32
+M,1500M,Atlanta,1996,,,B,Stephen KIPKORIR,KEN,0:03:37
+M,1500M,Helsinki,1952,G,,,Joseph BARTHEL,LUX,0:03:45
+M,1500M,Sydney,2000,,S,,Hicham EL GUERROUJ,MAR,0:03:32
+M,1500M,Barcelona,1992,,S,,Rachid EL BASIR,MAR,0:03:41
+M,1500M,Athens,2004,G,,,Hicham EL GUERROUJ,MAR,0:03:34
+M,1500M,London,2012,,,B,Abdalaati IGUIDER,MAR,0:03:35
+M,1500M,London,1948,,,B,Willem SLIJKHUIS,NED,0:03:50
+M,1500M,Beijing,2008,,S,,Nicholas WILLIS,NZL,0:03:34
+M,1500M,Montreal,1976,G,,,John George WALKER,NZL,0:03:39
+M,1500M,Berlin,1936,G,,,John LOVELOCK,NZL,0:03:48
+M,1500M,Tokyo,1964,G,,,Peter SNELL,NZL,0:03:38
+M,1500M,Rio,2016,,,B,Nicholas WILLIS,NZL,0:03:50
+M,1500M,Munich,1972,,,B,Rodney DIXON,NZL,0:03:38
+M,1500M,Tokyo,1964,,,B,John DAVIES,NZL,0:03:40
+M,1500M,Athens,2004,,,B,Rui SILVA,POR,0:03:35
+M,1500M,Barcelona,1992,,,B,Mohamed Ahmed SULAIMAN,QAT,0:03:41
+W,1500M,Sydney,2000,,S,,Violeta SZEKELY,ROU,0:04:05
+W,1500M,Los Angeles,1984,,S,,Doina MELINTE,ROU,0:04:04
+W,1500M,Atlanta,1996,,S,,Gabriela SZABO,ROU,0:04:02
+W,1500M,Sydney,2000,,,B,Gabriela SZABO,ROU,0:04:05
+W,1500M,Los Angeles,1984,,,B,Maricica PUICA,ROU,0:04:04
+W,1500M,Athens,2004,,,B,Maria CIONCAN,ROU,0:03:58
+W,1500M,Athens,2004,,S,,Tatyana TOMASHOVA,RUS,0:03:58
+W,1500M,Atlanta,1996,G,,,Svetlana MASTERKOVA,RUS,0:04:01
+M,1500M,Paris,1924,,S,,Willy SCHÃRER,SUI,0:03:55
+M,1500M,London,1948,,S,,Lennart STRAND,SWE,0:03:50
+M,1500M,London,1948,G,,,Henry ERIKSSON,SWE,0:03:50
+M,1500M,Tokyo,1964,,S,,Josef ODLOZIL,TCH,0:03:40
+W,1500M,London,2012,,S,,Gamze BULUT,TUR,0:04:10
+W,1500M,Beijing,2008,,S,,Iryna LISHCHYNSKA,UKR,0:04:02
+W,1500M,Beijing,2008,,,B,Nataliya TOBIAS,UKR,0:04:02
+W,1500M,Montreal,1976,G,,,Tatiana KAZANKINA,URS,0:04:05
+W,1500M,Moscow,1980,G,,,Tatiana KAZANKINA,URS,0:03:57
+W,1500M,Munich,1972,G,,,Lyudmila BRAGINA,URS,0:04:01
+W,1500M,Moscow,1980,,,B,Nadezhda OLIZARENKO,URS,0:04:00
+M,1500M,Mexico,1968,,S,,Jim RYUN,USA,0:03:38
+M,1500M,Helsinki,1952,,S,,Robert MCMILLEN,USA,0:03:45
+M,1500M,Berlin,1936,,S,,Glenn CUNNINGHAM,USA,0:03:48
+M,1500M,London,2012,,S,,Leonel MANZANO,USA,0:03:35
+M,1500M,Stockholm,1912,,S,,Abel KIVIAT,USA,0:03:57
+M,1500M,St Louis,1904,,S,,William VERNER,USA,0:04:07
+M,1500M,Athens,1896,,S,,Arthur BLAKE,USA,0:04:34
+M,1500M,Rio,2016,G,,,Matthew CENTROWITZ,USA,0:03:50
+M,1500M,London,1908,G,,,Melvin SHEPPARD,USA,0:04:03
+M,1500M,St Louis,1904,G,,,James LIGHTBODY,USA,0:04:05
+M,1500M,Antwerp,1920,,,B,Lawrence SHIELDS,USA,0:04:03
+M,1500M,Paris,1900,,,B,John BRAY,USA,0:04:07
+M,1500M,Stockholm,1912,,,B,Norman TABER,USA,0:03:57
+M,1500M,St Louis,1904,,,B,Lacey HEARN,USA,None
+W,1500M,Rio,2016,,,B,Jennifer SIMPSON,USA,0:04:11
+M,3000M Steeplechase,Tokyo,1964,G,,,Gaston ROELANTS,BEL,0:08:31
+W,3000M Steeplechase,Rio,2016,G,,,Ruth JEBET,BRN,0:09:00
+M,3000M Steeplechase,Paris,1900,G,,,George ORTON,CAN,0:07:34
+W,3000M Steeplechase,London,2012,,S,,Sofia ASSEFA,ETH,0:09:10
+M,3000M Steeplechase,Moscow,1980,,,B,Eshetu TURA,ETH,0:08:14
+M,3000M Steeplechase,Berlin,1936,,S,,Kaarlo Jalmari TUOMINEN,FIN,0:09:07
+M,3000M Steeplechase,Amsterdam,1928,,S,,Paavo NURMI,FIN,0:09:31
+M,3000M Steeplechase,Paris,1924,,S,,Elias KATZ,FIN,0:09:44
+M,3000M Steeplechase,Berlin,1936,G,,,Volmari ISO-HOLLO,FIN,0:09:04
+M,3000M Steeplechase,Amsterdam,1928,G,,,Toivo LOUKOLA,FIN,0:09:22
+M,3000M Steeplechase,Los Angeles,1932,G,,,Volmari ISO-HOLLO,FIN,0:10:33
+M,3000M Steeplechase,Paris,1924,G,,,Ville RITOLA,FIN,0:09:34
+M,3000M Steeplechase,Amsterdam,1928,,,B,Ove ANDERSEN,FIN,0:09:36
+M,3000M Steeplechase,Munich,1972,,,B,Tapio KANTANEN,FIN,0:08:25
+M,3000M Steeplechase,Beijing,2008,,S,,Mahiedine MEKHISSI-BENABBAD,FRA,0:08:11
+M,3000M Steeplechase,Los Angeles,1984,,S,,Joseph MAHMOUD,FRA,0:08:13
+M,3000M Steeplechase,London,2012,,S,,Mahiedine MEKHISSI-BENABBAD,FRA,0:08:19
+M,3000M Steeplechase,Rio,2016,,,B,Mahiedine MEKHISSI,FRA,0:08:11
+M,3000M Steeplechase,Paris,1900,,,B,Jean CHASTANIE,FRA,None
+M,3000M Steeplechase,Paris,1924,,,B,Paul BONTEMPS,FRA,0:09:45
+M,3000M Steeplechase,Paris,1900,,S,,Sidney ROBINSON,GBR,0:07:38
+M,3000M Steeplechase,Tokyo,1964,,S,,Maurice HERRIOTT,GBR,0:08:32
+M,3000M Steeplechase,Los Angeles,1932,,S,,Thomas EVENSON,GBR,0:10:46
+M,3000M Steeplechase,St Louis,1904,,S,,John DALY,GBR,0:07:41
+M,3000M Steeplechase,Antwerp,1920,G,,,Percy HODGE,GBR,0:10:00
+M,3000M Steeplechase,Melbourne / Stockholm,1956,G,,,Christopher William BRASHER,GBR,0:08:41
+M,3000M Steeplechase,Helsinki,1952,,,B,John DISLEY,GBR,0:08:52
+M,3000M Steeplechase,Montreal,1976,,,B,Frank BAUMGARTL,GDR,0:08:10
+M,3000M Steeplechase,Berlin,1936,,,B,Alfred DOMPERT,GER,0:09:07
+M,3000M Steeplechase,Melbourne / Stockholm,1956,,S,,SÃÂ¡ndor ROZSNYÃ?I,HUN,0:08:44
+M,3000M Steeplechase,Antwerp,1920,,,B,Ernesto AMBROSINI,ITA,None
+M,3000M Steeplechase,Atlanta,1996,,,B,Alessandro LAMBRUSCHINI,ITA,0:08:11
+M,3000M Steeplechase,Sydney,2000,,S,,Wilson Boit KIPKETER,KEN,0:08:22
+M,3000M Steeplechase,Barcelona,1992,,S,,Patrick SANG,KEN,0:08:10
+M,3000M Steeplechase,Mexico,1968,,S,,Benjamin KOGO,KEN,0:08:52
+M,3000M Steeplechase,Athens,2004,,S,,Brimin Kiprop KIPRUTO,KEN,0:08:06
+M,3000M Steeplechase,Atlanta,1996,,S,,Moses KIPTANUI,KEN,0:08:08
+M,3000M Steeplechase,Munich,1972,,S,,Ben JIPCHO,KEN,0:08:25
+W,3000M Steeplechase,Rio,2016,,S,,Hyvin Kiyeng JEPKEMOI,KEN,0:09:07
+W,3000M Steeplechase,Beijing,2008,,S,,Eunice JEPKORIR,KEN,0:09:07
+M,3000M Steeplechase,Rio,2016,G,,,Conseslus KIPRUTO,KEN,0:08:03
+M,3000M Steeplechase,Beijing,2008,G,,,Brimin Kiprop KIPRUTO,KEN,0:08:10
+M,3000M Steeplechase,Sydney,2000,G,,,Reuben KOSGEI,KEN,0:08:21
+M,3000M Steeplechase,Barcelona,1992,G,,,Matthew BIRIR,KEN,0:08:09
+M,3000M Steeplechase,Los Angeles,1984,G,,,Julius KORIR,KEN,0:08:12
+M,3000M Steeplechase,Mexico,1968,G,,,Amos BIWOTT,KEN,0:08:51
+M,3000M Steeplechase,London,2012,G,,,Ezekiel KEMBOI,KEN,0:08:19
+M,3000M Steeplechase,Athens,2004,G,,,Ezekiel KEMBOI,KEN,0:08:06
+M,3000M Steeplechase,Atlanta,1996,G,,,Joseph KETER,KEN,0:08:07
+M,3000M Steeplechase,Munich,1972,G,,,Kip KEINO,KEN,0:08:24
+M,3000M Steeplechase,Beijing,2008,,,B,Richard Kipkemboi MATEELONG,KEN,0:08:11
+M,3000M Steeplechase,Barcelona,1992,,,B,William MUTWOL,KEN,0:08:11
+M,3000M Steeplechase,London,2012,,,B,Abel Kiprop MUTAI,KEN,0:08:20
+M,3000M Steeplechase,Athens,2004,,,B,Paul Kipsiele KOECH,KEN,0:08:07
+W,3000M Steeplechase,London,2012,,,B,Milcah Chemos CHEYWA,KEN,0:09:10
+M,3000M Steeplechase,Sydney,2000,,,B,Ali EZZINE,MAR,0:08:22
+M,3000M Steeplechase,Melbourne / Stockholm,1956,,,B,Ernst LARSEN,NOR,0:08:44
+M,3000M Steeplechase,Montreal,1976,,S,,Bronislaw MALINOWSKI,POL,0:08:09
+M,3000M Steeplechase,Rome,1960,G,,,Zdzislaw KRZYSZKOWIAK,POL,0:08:34
+M,3000M Steeplechase,Moscow,1980,G,,,Bronislaw MALINOWSKI,POL,0:08:10
+W,3000M Steeplechase,Beijing,2008,G,,,Gulnara SAMITOVA,RUS,0:08:59
+M,3000M Steeplechase,London,1948,,S,,Fritz Erik ELMSÃ?TER,SWE,0:09:08
+M,3000M Steeplechase,Montreal,1976,G,,,Anders GARDERUD,SWE,0:08:08
+M,3000M Steeplechase,London,1948,G,,,Tore SJÃSTRAND,SWE,0:09:05
+M,3000M Steeplechase,London,1948,,,B,Gote Ernst HAGSTROM,SWE,0:09:12
+M,3000M Steeplechase,Moscow,1980,,S,,Filbert BAYI,TAN,0:08:13
+W,3000M Steeplechase,London,2012,G,,,Habiba GHRIBI,TUN,0:09:08
+M,3000M Steeplechase,Rome,1960,,S,,Nikolay SOKOLOV,URS,0:08:36
+M,3000M Steeplechase,Helsinki,1952,,S,,Vladimir KAZANTSEV,URS,0:08:52
+M,3000M Steeplechase,Rome,1960,,,B,Semyon RZISHCHIN,URS,0:08:42
+M,3000M Steeplechase,Tokyo,1964,,,B,Ivan BELYAEV,URS,0:08:34
+M,3000M Steeplechase,Rio,2016,,S,,Evan JAGER,USA,0:08:04
+M,3000M Steeplechase,Antwerp,1920,,S,,Patrick FLYNN,USA,None
+M,3000M Steeplechase,Helsinki,1952,G,,,Horace ASHENFELTER,USA,0:08:45
+M,3000M Steeplechase,St Louis,1904,G,,,James LIGHTBODY,USA,0:07:40
+M,3000M Steeplechase,Los Angeles,1984,,,B,Brian Lee DIEMER,USA,0:08:14
+M,3000M Steeplechase,Mexico,1968,,,B,George YOUNG,USA,0:08:52
+M,3000M Steeplechase,Los Angeles,1932,,,B,Joseph MCCLUSKEY,USA,0:10:46
+M,3000M Steeplechase,St Louis,1904,,,B,Arthur NEWTON,USA,None
+W,3000M Steeplechase,Rio,2016,,,B,Emma COBURN,USA,0:09:08
+M,5000M,Sydney,2000,,S,,Ali SAIDI-SIEF,ALG,0:13:36
+M,5000M,Atlanta,1996,G,,,Venuste NIYONGABO,BDI,0:13:08
+M,5000M,London,1948,G,,,Gaston REIFF,BEL,0:14:18
+W,5000M,Atlanta,1996,G,,,Junxia WANG,CHN,0:15:00
+M,5000M,London,2012,,S,,Dejen GEBREMESKEL,ETH,0:13:42
+M,5000M,Athens,2004,,S,,Kenenisa BEKELE,ETH,0:13:15
+M,5000M,Beijing,2008,G,,,Kenenisa BEKELE,ETH,0:12:58
+M,5000M,Sydney,2000,G,,,Millon WOLDE,ETH,0:13:36
+M,5000M,Moscow,1980,G,,,Miruts YIFTER,ETH,0:13:21
+W,5000M,Beijing,2008,G,,,Tirunesh DIBABA,ETH,0:15:41
+W,5000M,London,2012,G,,,Meseret DEFAR,ETH,0:15:04
+W,5000M,Athens,2004,G,,,Meseret DEFAR,ETH,0:14:46
+M,5000M,Rio,2016,,,B,Hagos GEBRHIWET,ETH,0:13:04
+M,5000M,Barcelona,1992,,,B,Fita BAYISSA,ETH,0:13:13
+W,5000M,Rio,2016,,,B,Almaz AYANA,ETH,0:14:34
+W,5000M,Beijing,2008,,,B,Meseret DEFAR,ETH,0:15:44
+W,5000M,Sydney,2000,,,B,Gete WAMI,ETH,0:14:42
+W,5000M,London,2012,,,B,Tirunesh DIBABA,ETH,0:15:05
+W,5000M,Athens,2004,,,B,Tirunesh DIBABA,ETH,0:14:52
+M,5000M,Rome,1960,,S,,Hans GRODOTZKI,EUA,0:13:45
+M,5000M,Tokyo,1964,,S,,Harald NORPOTH,EUA,0:13:50
+M,5000M,Berlin,1936,,S,,Lauri LEHTINEN,FIN,0:14:26
+M,5000M,Amsterdam,1928,,S,,Paavo NURMI,FIN,0:14:40
+M,5000M,Antwerp,1920,,S,,Paavo NURMI,FIN,0:15:00
+M,5000M,Paris,1924,,S,,Ville RITOLA,FIN,0:14:31
+M,5000M,Montreal,1976,G,,,Lasse VIREN,FIN,0:13:25
+M,5000M,Berlin,1936,G,,,Gunnar HÃCKERT,FIN,0:14:22
+M,5000M,Amsterdam,1928,G,,,Ville RITOLA,FIN,0:14:38
+M,5000M,Munich,1972,G,,,Lasse VIREN,FIN,0:13:26
+M,5000M,Los Angeles,1932,G,,,Lauri LEHTINEN,FIN,0:14:30
+M,5000M,Paris,1924,G,,,Paavo NURMI,FIN,0:14:31
+M,5000M,Stockholm,1912,G,,,Hannes KOLEHMAINEN,FIN,0:14:37
+M,5000M,Moscow,1980,,,B,Kaarlo MAANINKA,FIN,0:13:22
+M,5000M,Los Angeles,1932,,,B,Lauri VIRTANEN,FIN,0:14:44
+M,5000M,Helsinki,1952,,S,,Alain MIMOUN,FRA,0:14:07
+M,5000M,Stockholm,1912,,S,,Jean BOUIN,FRA,0:14:37
+M,5000M,Antwerp,1920,G,,,Joseph GUILLEMOT,FRA,0:14:56
+M,5000M,Montreal,1976,,,B,Klaus-Peter HILDENBRAND,FRG,0:13:25
+M,5000M,Melbourne / Stockholm,1956,,S,,Gordon PIRIE,GBR,0:13:51
+M,5000M,Rio,2016,G,,,Mohamed FARAH,GBR,0:13:03
+M,5000M,London,2012,G,,,Mohamed FARAH,GBR,0:13:42
+M,5000M,Munich,1972,,,B,Ian STEWART,GBR,0:13:28
+M,5000M,Melbourne / Stockholm,1956,,,B,Derek IBBOTSON,GBR,0:13:54
+M,5000M,Stockholm,1912,,,B,George HUTSON,GBR,0:15:08
+M,5000M,Barcelona,1992,G,,,Dieter BAUMANN,GER,0:13:13
+M,5000M,Helsinki,1952,,,B,Herbert SCHADE,GER,0:14:09
+W,5000M,Sydney,2000,,S,,Sonia O'SULLIVAN,IRL,0:14:41
+W,5000M,Atlanta,1996,,,B,Roberta BRUNET,ITA,0:15:07
+M,5000M,Beijing,2008,,S,,Eliud Kipchoge ROTICH,KEN,0:13:03
+M,5000M,Barcelona,1992,,S,,Paul BITOK,KEN,0:13:13
+M,5000M,Mexico,1968,,S,,Kip KEINO,KEN,0:14:05
+M,5000M,Atlanta,1996,,S,,Paul BITOK,KEN,0:13:08
+W,5000M,Rio,2016,,S,,Hellen Onsando OBIRI,KEN,0:14:30
+W,5000M,London,2012,,S,,Vivian Jepkemoi CHERUIYOT,KEN,0:15:05
+W,5000M,Athens,2004,,S,,Isabella OCHICHI,KEN,0:14:48
+W,5000M,Atlanta,1996,,S,,Pauline KONGA,KEN,0:15:03
+W,5000M,Rio,2016,G,,,Vivian Jepkemoi CHERUIYOT,KEN,0:14:26
+M,5000M,Beijing,2008,,,B,Edwin Cheruiyot SOI,KEN,0:13:06
+M,5000M,Mexico,1968,,,B,Naftali TEMU,KEN,0:14:06
+M,5000M,London,2012,,,B,Thomas Pkemei LONGOSIWA,KEN,0:13:42
+M,5000M,Athens,2004,,,B,Eliud Kipchoge ROTICH,KEN,0:13:15
+M,5000M,Los Angeles,1984,G,,,SaÃ¯d AOUITA,MAR,0:13:06
+M,5000M,Athens,2004,G,,,Hicham EL GUERROUJ,MAR,13:14.4
+M,5000M,Sydney,2000,,,B,Brahim LAHLAFI,MAR,13:36.5
+M,5000M,Atlanta,1996,,,B,Khalid BOULAMI,MAR,13:08.4
+M,5000M,London,1948,,,B,Willem SLIJKHUIS,NED,14:26.8
+M,5000M,Montreal,1976,,S,,Dick Theodorus QUAX,NZL,13:25.2
+M,5000M,Rome,1960,G,,,Murray HALBERG,NZL,13:43.4
+M,5000M,Rome,1960,,,B,Kazimierz ZIMNY,POL,13:44.8
+M,5000M,Los Angeles,1984,,,B,AntÃ³nio LEITÃO,POR,13:09.2
+W,5000M,Sydney,2000,G,,,Gabriela SZABO,ROU,14:40.8
+M,5000M,Los Angeles,1984,,S,,Markus RYFFEL,SUI,13:07.5
+M,5000M,Berlin,1936,,,B,Henry JONSSON-KÃLARNE,SWE,14:29.0
+M,5000M,Amsterdam,1928,,,B,Edvin WIDE,SWE,14:41.2
+M,5000M,Antwerp,1920,,,B,Eric BACKMAN,SWE,15:13.0
+M,5000M,Paris,1924,,,B,Edvin WIDE,SWE,15:01.8
+M,5000M,Moscow,1980,,S,,Suleiman NYAMBUI,TAN,13:21.6
+M,5000M,London,1948,,S,,Emil ZÃTOPEK,TCH,14:17.8
+M,5000M,Helsinki,1952,G,,,Emil ZÃTOPEK,TCH,14:06.6
+M,5000M,Munich,1972,,S,,Mohamed GAMMOUDI,TUN,13:27.3
+M,5000M,Mexico,1968,G,,,Mohamed GAMMOUDI,TUN,14:05.0
+W,5000M,Beijing,2008,,S,,Elvan ABEYLEGESSE,TUR,15:42.7
+M,5000M,Melbourne / Stockholm,1956,G,,,Vladimir KUTS,URS,13:39.6
+M,5000M,Rio,2016,,S,,Paul Kipkemoi CHELIMO,USA,13:03.9
+M,5000M,Los Angeles,1932,,S,,Ralph HILL,USA,14:30.0
+M,5000M,Tokyo,1964,G,,,Robert Keyser SCHUL,USA,13:48.8
+M,5000M,Tokyo,1964,,,B,Bill DELLINGER,USA,13:49.8
+M,800M,Rio,2016,,S,,Taoufik MAKHLOUFI,ALG,0:01:43
+M,800M,Sydney,2000,,,B,Djabir SAID GUERNI,ALG,0:01:45
+W,800M,Rome,1960,,S,,Brenda JONES,AUS,0:02:04
+M,800M,Mexico,1968,G,,,Ralph DOUBELL,AUS,0:01:44
+M,800M,Athens,1896,G,,,Edwin FLACK,AUS,0:02:11
+W,800M,Sydney,2000,,S,,Stephanie GRAF,AUT,0:01:57
+W,800M,Rio,2016,,S,,Francine NIYONSABA,BDI,0:01:57
+M,800M,Montreal,1976,,S,,Ivo VAN DAMME,BEL,0:01:44
+M,800M,Rome,1960,,S,,Roger MOENS,BEL,0:01:46
+M,800M,London,2012,,S,,Nijel AMOS,BOT,0:01:42
+M,800M,Los Angeles,1984,G,,,Joaquim CRUZ,BRA,0:01:43
+W,800M,Montreal,1976,,S,,Nikolina CHTEREVA,BUL,0:01:55
+M,800M,Rome,1960,,,B,George KERR,BWI,0:01:47
+M,800M,Tokyo,1964,,S,,William CROTHERS,CAN,0:01:46
+M,800M,Los Angeles,1932,,S,,Alex WILSON,CAN,0:01:50
+M,800M,Berlin,1936,,,B,Philip EDWARDS,CAN,0:01:54
+M,800M,Los Angeles,1932,,,B,Philip EDWARDS,CAN,None
+W,800M,Atlanta,1996,,S,,Ana Fidelia QUIROT,CUB,0:01:58
+M,800M,Montreal,1976,G,,,Alberto JUANTORENA,CUB,0:01:44
+W,800M,Barcelona,1992,,,B,Ana Fidelia QUIROT,CUB,0:01:57
+M,800M,Sydney,2000,,S,,Wilson KIPKETER,DEN,0:01:45
+M,800M,Athens,2004,,,B,Wilson KIPKETER,DEN,0:01:45
+W,800M,Rome,1960,,,B,Ursula DONATH,EUA,0:02:06
+W,800M,Barcelona,1992,,S,,Liliya NURUTDINOVA,EUN,0:01:56
+W,800M,Tokyo,1964,,S,,Maryvonne DUPUREUR,FRA,0:02:02
+M,800M,London,1948,,,B,Marcel HANSENNE,FRA,0:01:50
+W,800M,Munich,1972,G,,,Hildegard FALCK,FRG,0:01:59
+M,800M,Los Angeles,1984,,S,,Sebastian COE,GBR,0:01:44
+M,800M,Moscow,1980,,S,,Sebastian COE,GBR,0:01:46
+M,800M,Melbourne / Stockholm,1956,,S,,Derek JOHNSON,GBR,0:01:48
+M,800M,Amsterdam,1928,G,,,Douglas LOWE,GBR,0:01:52
+M,800M,Antwerp,1920,G,,,Albert HILL,GBR,0:01:53
+M,800M,Paris,1900,G,,,Alfred TYSOE,GBR,0:02:01
+M,800M,Moscow,1980,G,,,Steve OVETT,GBR,0:01:45
+M,800M,Los Angeles,1932,G,,,Thomas HAMPSON,GBR,0:01:50
+M,800M,Paris,1924,G,,,Douglas LOWE,GBR,0:01:52
+W,800M,Athens,2004,G,,,Kelly HOLMES,GBR,0:01:56
+W,800M,Tokyo,1964,G,,,Ann PACKER,GBR,0:02:01
+W,800M,Sydney,2000,,,B,Kelly HOLMES,GBR,0:01:57
+W,800M,Montreal,1976,,,B,Elfi ZINN,GDR,0:01:56
+W,800M,Munich,1972,,,B,Gunhild HOFFMEISTER,GDR,0:01:59
+M,800M,Sydney,2000,G,,,Nils SCHUMANN,GER,0:01:45
+W,800M,Amsterdam,1928,G,,,"Karoline ""Lina"" RADKE",GER,0:02:17
+M,800M,Helsinki,1952,,,B,Heinz ULZHEIMER,GER,0:01:50
+M,800M,Amsterdam,1928,,,B,Hermann ENGELHARD,GER,0:01:53
+M,800M,London,1908,,,B,Hanns BRAUN,GER,0:01:55
+M,800M,Athens,1896,,,B,Dimitrios GOLEMIS,GRE,0:02:28
+M,800M,Athens,1896,,S,,NÃ¡ndor DÃNI,HUN,0:02:12
+M,800M,Berlin,1936,,S,,Mario LANZI,ITA,0:01:53
+M,800M,London,1908,,S,,Emilio LUNGHI,ITA,0:01:54
+M,800M,Helsinki,1952,,S,,Arthur WINT,JAM,0:01:49
+M,800M,London,1948,,S,,Arthur WINT,JAM,0:01:49
+W,800M,Amsterdam,1928,,S,,Kinue HITOMI,JPN,None
+M,800M,Barcelona,1992,,S,,Nixon KIPROTICH,KEN,0:01:44
+M,800M,Mexico,1968,,S,,Wilson KIPRUGUT,KEN,0:01:45
+W,800M,Beijing,2008,,S,,Janeth Jepkosgei BUSIENEI,KEN,0:01:56
+M,800M,Rio,2016,G,,,David Lekuta RUDISHA,KEN,0:01:42
+M,800M,Beijing,2008,G,,,Wilfred BUNGEI,KEN,0:01:45
+M,800M,Barcelona,1992,G,,,William TANUI,KEN,0:01:44
+M,800M,London,2012,G,,,David Lekuta RUDISHA,KEN,0:01:41
+W,800M,Beijing,2008,G,,,Pamela JELIMO,KEN,0:01:55
+M,800M,Beijing,2008,,,B,Alfred Kirwa YEGO,KEN,0:01:45
+M,800M,London,2012,,,B,Timothy KITUM,KEN,0:01:43
+M,800M,Atlanta,1996,,,B,Fred ONYANCHA,KEN,0:01:43
+M,800M,Munich,1972,,,B,Mike BOIT,KEN,0:01:46
+M,800M,Tokyo,1964,,,B,Wilson KIPRUGUT,KEN,0:01:46
+W,800M,Rio,2016,,,B,Margaret Nyairera WAMBUI,KEN,0:01:57
+W,800M,Athens,2004,,S,,Hasna BENHASSI,MAR,0:01:56
+W,800M,Beijing,2008,,,B,Hasna BENHASSI,MAR,0:01:57
+W,800M,Sydney,2000,G,,,Maria MUTOLA,MOZ,0:01:56
+W,800M,Atlanta,1996,,,B,Maria MUTOLA,MOZ,0:01:59
+W,800M,Barcelona,1992,G,,,Ellen VAN LANGEN,NED,0:01:56
+W,800M,Mexico,1968,,,B,Maria GOMMERS,NED,0:02:03
+M,800M,Atlanta,1996,G,,,VebjÃ¸rn RODAL,NOR,0:01:43
+M,800M,Melbourne / Stockholm,1956,,,B,Audun BOYSEN,NOR,0:01:48
+M,800M,Rome,1960,G,,,Peter SNELL,NZL,0:01:46
+M,800M,Tokyo,1964,G,,,Peter SNELL,NZL,0:01:45
+W,800M,Tokyo,1964,,,B,Ann Marise CHAMBERLAIN,NZL,0:02:03
+W,800M,Mexico,1968,,S,,Ileana SILAI,ROU,0:02:02
+W,800M,Los Angeles,1984,G,,,Doina MELINTE,ROU,0:01:58
+W,800M,Los Angeles,1984,,,B,Fita LOVIN,ROU,0:01:59
+M,800M,Athens,2004,,S,,Mbulaeni MULAUDZI,RSA,0:01:45
+M,800M,Atlanta,1996,,S,,Hezekiel SEPENG,RSA,0:01:43
+W,800M,London,2012,,S,,Caster SEMENYA,RSA,0:01:57
+W,800M,Rio,2016,G,,,Caster SEMENYA,RSA,0:01:55
+M,800M,Antwerp,1920,,,B,Bevil RUDD,RSA,0:01:54
+M,800M,Athens,2004,G,,,Yuriy BORZAKOVSKIY,RUS,0:01:45
+W,800M,London,2012,G,,,Mariya SAVINOVA,RUS,0:01:56
+W,800M,Atlanta,1996,G,,,Svetlana MASTERKOVA,RUS,0:01:58
+W,800M,London,2012,,,B,Ekaterina POISTOGOVA,RUS,0:01:58
+W,800M,Athens,2004,,,B,Jolanda CEPLAK,SLO,0:01:56
+M,800M,Beijing,2008,,S,,Ismail Ahmed ISMAIL,SUD,0:01:45
+M,800M,Paris,1924,,S,,Paul MARTIN,SUI,0:01:53
+M,800M,Amsterdam,1928,,S,,Erik BYLÃHN,SWE,0:01:53
+W,800M,Amsterdam,1928,,,B,Inga GENTZEL,SWE,None
+M,800M,Munich,1972,,S,,Yevgeni ARZHANOV,URS,0:01:46
+W,800M,Moscow,1980,,S,,Olga MINEEVA,URS,0:01:55
+W,800M,Munich,1972,,S,,Niole SABAITE,URS,0:01:59
+W,800M,Montreal,1976,G,,,Tatiana KAZANKINA,URS,0:01:55
+W,800M,Rome,1960,G,,,Lyudmila SHEVTSOVA,URS,0:02:04
+W,800M,Moscow,1980,G,,,Nadezhda OLIZARENKO,URS,0:01:54
+M,800M,Moscow,1980,,,B,Nikolai KIROV,URS,0:01:46
+W,800M,Moscow,1980,,,B,Tatiana PROVIDOKHINA,URS,0:01:56
+M,800M,Antwerp,1920,,S,,Earl EBY,USA,0:01:54
+M,800M,Paris,1900,,S,,John CREGAN,USA,0:02:02
+M,800M,Stockholm,1912,,S,,Melvin SHEPPARD,USA,0:01:52
+M,800M,St Louis,1904,,S,,Howard VALENTINE,USA,0:01:56
+W,800M,Los Angeles,1984,,S,,Kim GALLAGHER,USA,0:01:59
+M,800M,Helsinki,1952,G,,,Mal WHITFIELD,USA,0:01:49
+M,800M,Berlin,1936,G,,,John WOODRUFF,USA,0:01:53
+M,800M,London,1908,G,,,Melvin SHEPPARD,USA,0:01:53
+M,800M,Munich,1972,G,,,David James WOTTLE,USA,0:01:46
+M,800M,Melbourne / Stockholm,1956,G,,,Thomas COURTNEY,USA,0:01:48
+M,800M,London,1948,G,,,Mal WHITFIELD,USA,0:01:49
+M,800M,Stockholm,1912,G,,,James Edwin MEREDITH,USA,0:01:52
+M,800M,St Louis,1904,G,,,James LIGHTBODY,USA,0:01:56
+W,800M,Mexico,1968,G,,,Madeline MANNING-JACKSON,USA,0:02:01
+M,800M,Rio,2016,,,B,Clayton MURPHY,USA,0:01:43
+M,800M,Barcelona,1992,,,B,Johnny GRAY,USA,0:01:44
+M,800M,Los Angeles,1984,,,B,Earl JONES,USA,0:01:44
+M,800M,Montreal,1976,,,B,Richard Charles WOHLHUTER,USA,0:01:44
+M,800M,Mexico,1968,,,B,Thomas Francis FARRELL,USA,0:01:45
+M,800M,Paris,1900,,,B,David HALL,USA,None
+M,800M,Paris,1924,,,B,Schuyler ENCK,USA,0:01:53
+M,800M,Stockholm,1912,,,B,Ira DAVENPORT,USA,0:01:52
+M,800M,St Louis,1904,,,B,Emil BREITKREUTZ,USA,0:01:56
+M,Marathon,Helsinki,1952,,S,,Reinaldo GORNO,ARG,2:25:35
+M,Marathon,London,1948,G,,,Delfo CABRERA,ARG,2:34:52
+M,Marathon,Los Angeles,1932,G,,,Juan Carlos ZABALA,ARG,2:31:36
+W,Marathon,Seoul,1988,,,,Lisa ONDIEKI,AUS,2:25:53
+M,Marathon,Munich,1972,,S,,Karel LISMONT,BEL,2:14:32
+M,Marathon,Montreal,1976,,,B,Karel LISMONT,BEL,2:11:13
+M,Marathon,London,1948,,,B,Etienne GAILLY,BEL,2:35:34
+M,Marathon,Athens,2004,,,B,Vanderlei DE LIMA,BRA,2:12:11
+W,Marathon,Rio,2016,,S,,Eunice Jepkirui KIRWA,BRN,2:24:13
+M,Marathon,Amsterdam,1928,,S,,Manuel PLAZA,CHI,2:33:23
+W,Marathon,Beijing,2008,,,B,Chunxiu ZHOU,CHN,2:27:07
+M,Marathon,Seoul,1988,,,B,Hussein AHMED SALAH,DJI,2:10:59
+M,Marathon,Antwerp,1920,,S,,JÃ¼ri LOSSMANN,EST,2:32:49
+M,Marathon,Rio,2016,,S,,Feyisa LILESA,ETH,2:09:54
+M,Marathon,Sydney,2000,G,,,Gezahegne ABERA,ETH,2:10:11
+M,Marathon,Mexico,1968,G,,,Mamo WOLDE,ETH,2:20:26
+M,Marathon,Rome,1960,G,,,Abebe BIKILA,ETH,2:15:16
+M,Marathon,Tokyo,1964,G,,,Abebe BIKILA,ETH,2:12:11
+W,Marathon,London,2012,G,,,Tiki GELANA,ETH,2:23:07
+W,Marathon,Atlanta,1996,G,,,Fatuma ROBA,ETH,2:26:05
+M,Marathon,Beijing,2008,,,B,Tsegay KEBEDE,ETH,2:10:00
+M,Marathon,Sydney,2000,,,B,Tesfaye TOLA,ETH,2:11:10
+M,Marathon,Munich,1972,,,B,Mamo WOLDE,ETH,2:15:08
+W,Marathon,Rio,2016,,,B,Mare DIBABA,ETH,2:24:30
+W,Marathon,Barcelona,1992,G,,,Valentina YEGOROVA,EUN,2:32:41
+M,Marathon,Antwerp,1920,G,,,Hannes KOLEHMAINEN,FIN,2:32:35
+M,Marathon,Paris,1924,G,,,Albin STENROOS,FIN,2:41:23
+M,Marathon,Amsterdam,1928,,,B,Martti MARTTELIN,FIN,2:35:02
+M,Marathon,Melbourne / Stockholm,1956,,,B,Veikko KARVONEN,FIN,2:27:47
+M,Marathon,Los Angeles,1932,,,B,Armas TOIVONEN,FIN,2:32:12
+M,Marathon,Paris,1900,,S,,Ãmile CHAMPION,FRA,3:04:17
+M,Marathon,Amsterdam,1928,G,,,BoughÃ¨ra EL OUAFI,FRA,2:32:57
+M,Marathon,Paris,1900,G,,,Michel THÃATO,FRA,2:59:45
+M,Marathon,Melbourne / Stockholm,1956,G,,,Alain MIMOUN,FRA,2:25:00
+M,Marathon,Berlin,1936,,S,,Ernest HARPER,GBR,2:31:23
+M,Marathon,Tokyo,1964,,S,,Basil HEATLEY,GBR,2:16:19
+M,Marathon,London,1948,,S,,Thomas John Henry RICHARDS,GBR,2:35:08
+M,Marathon,Los Angeles,1932,,S,,Samuel FERRIS,GBR,2:31:55
+M,Marathon,Los Angeles,1984,,,B,Charles SPEDDING,GBR,2:09:58
+M,Marathon,Montreal,1976,G,,,Waldemar CIERPINSKI,GDR,2:09:55
+M,Marathon,Moscow,1980,G,,,Waldemar CIERPINSKI,GDR,2:11:03
+W,Marathon,Seoul,1988,,,B,Katrin DÃRRE,GDR,2:26:21
+M,Marathon,Barcelona,1992,,,B,Stephan FREIGANG,GER,2:14:00
+M,Marathon,Athens,1896,,S,,Kharilaos VASILAKOS,GRE,3:06:03
+M,Marathon,Athens,1896,G,,,Spyridon LOUIS,GRE,2:58:50
+M,Marathon,Athens,1896,,,B,Gyula KELLNER,HUN,3:06:35
+M,Marathon,Los Angeles,1984,,S,,John TREACY,IRL,2:09:56
+M,Marathon,Paris,1924,,S,,Romeo BERTINI,ITA,2:47:20
+M,Marathon,Athens,2004,G,,,Stefano BALDINI,ITA,2:10:55
+M,Marathon,Seoul,1988,G,,,Gelindo BORDIN,ITA,2:10:32
+M,Marathon,Antwerp,1920,,,B,Valerio ARRI,ITA,2:36:33
+M,Marathon,Barcelona,1992,,S,,Koichi MORISHITA,JPN,2:13:45
+M,Marathon,Mexico,1968,,S,,Kenji KIMIHARA,JPN,2:23:31
+W,Marathon,Barcelona,1992,,S,,Yuko ARIMORI,JPN,2:32:49
+M,Marathon,Berlin,1936,G,,,Kitei SON,JPN,2:29:19
+W,Marathon,Sydney,2000,G,,,Naoko TAKAHASHI,JPN,2:23:14
+W,Marathon,Athens,2004,G,,,Mizuki NOGUCHI,JPN,2:26:20
+M,Marathon,Berlin,1936,,,B,Shoryu NAN,JPN,2:31:42
+M,Marathon,Tokyo,1964,,,B,Kokichi TSUBURAYA,JPN,2:16:23
+W,Marathon,Atlanta,1996,,,B,Yuko ARIMORI,JPN,2:28:39
+M,Marathon,Sydney,2000,,S,,Erick WAINAINA,KEN,2:10:31
+M,Marathon,London,2012,,S,,Abel KIRUI,KEN,2:08:27
+M,Marathon,Seoul,1988,,S,,Douglas WAKIIHURI,KEN,2:10:47
+W,Marathon,Beijing,2008,,S,,Catherine NDEREBA,KEN,2:27:06
+W,Marathon,London,2012,,S,,Priscah JEPTOO,KEN,2:23:12
+W,Marathon,Athens,2004,,S,,Catherine NDEREBA,KEN,2:26:32
+M,Marathon,Rio,2016,G,,,Eliud Kipchoge ROTICH,KEN,2:08:44
+M,Marathon,Beijing,2008,G,,,Samuel Kamau WANJIRU,KEN,2:06:32
+W,Marathon,Rio,2016,G,,,Jemima Jelagat SUMGONG,KEN,2:24:04
+M,Marathon,London,2012,,,B,Wilson Kipsang KIPROTICH,KEN,2:09:37
+M,Marathon,Atlanta,1996,,,B,Erick WAINAINA,KEN,2:12:44
+W,Marathon,Sydney,2000,,,B,Joyce CHEPCHUMBA,KEN,2:24:45
+M,Marathon,Atlanta,1996,,S,,Bong Ju LEE,KOR,2:12:39
+M,Marathon,Barcelona,1992,G,,,Young-Cho HWANG,KOR,2:13:23
+M,Marathon,Beijing,2008,,S,,Jaouad GHARIB,MAR,2:07:16
+M,Marathon,Rome,1960,,S,,Abdesiem RHADI BEN ABDESSELEM,MAR,2:15:42
+M,Marathon,Moscow,1980,,S,,Gerard NIJBOER,NED,2:11:20
+W,Marathon,Los Angeles,1984,,S,,Grete ANDERSEN,NOR,2:26:18
+M,Marathon,Mexico,1968,,,B,Mike RYAN,NZL,2:23:45
+M,Marathon,Rome,1960,,,B,Barry MAGEE,NZL,2:17:18
+W,Marathon,Barcelona,1992,,,B,Lorraine MOLLER,NZL,2:33:59
+M,Marathon,Los Angeles,1984,G,,,Carlos LOPES,POR,2:09:21
+W,Marathon,Seoul,1988,G,,,Rosa MOTA,POR,2:25:40
+W,Marathon,Los Angeles,1984,,,B,Rosa MOTA,POR,2:26:57
+W,Marathon,Sydney,2000,,S,,Lidia SIMON,ROU,2:23:22
+W,Marathon,Beijing,2008,G,,,Constantina TOMESCU,ROU,2:26:44
+M,Marathon,London,1908,,S,,Charles HEFFERON,RSA,2:56:06
+M,Marathon,Stockholm,1912,,S,,Christian W. GITSHAM,RSA,2:37:52
+M,Marathon,Atlanta,1996,G,,,Josia THUGWANE,RSA,2:12:36
+M,Marathon,Stockholm,1912,G,,,Kennedy Kane MCARTHUR,RSA,2:36:55
+W,Marathon,Atlanta,1996,,S,,Valentina YEGOROVA,RUS,2:28:05
+W,Marathon,London,2012,,,B,Tatyana PETROVA ARKHIPOVA,RUS,2:23:29
+M,Marathon,Helsinki,1952,,,B,Gustaf JANSSON,SWE,2:26:07
+M,Marathon,Paris,1900,,,B,Ernst FAST,SWE,3:37:14
+M,Marathon,Helsinki,1952,G,,,Emil ZÃTOPEK,TCH,2:23:03
+M,Marathon,London,2012,G,,,Stephen KIPROTICH,UGA,2:08:01
+M,Marathon,Moscow,1980,,,B,Setymkul DZHUMANAZAROV,URS,2:11:35
+M,Marathon,Montreal,1976,,S,,Frank Charles SHORTER,USA,2:10:46
+M,Marathon,Athens,2004,,S,,Mebrahtom KEFLEZIGHI,USA,2:11:29
+M,Marathon,St Louis,1904,,S,,Albert CORAY,USA,3:34:52
+M,Marathon,London,1908,G,,,John HAYES,USA,2:55:18
+M,Marathon,Munich,1972,G,,,Frank Charles SHORTER,USA,2:12:20
+M,Marathon,St Louis,1904,G,,,Thomas HICKS,USA,3:28:53
+W,Marathon,Los Angeles,1984,G,,,Joan BENOIT,USA,2:24:52
+M,Marathon,Rio,2016,,,B,Galen RUPP,USA,2:10:05
+M,Marathon,London,1908,,,B,Joseph FORSHAW,USA,2:57:10
+M,Marathon,Paris,1924,,,B,Clarence DEMAR,USA,2:48:14
+M,Marathon,Stockholm,1912,,,B,Gaston STROBINO,USA,2:38:42
+M,Marathon,St Louis,1904,,,B,Arthur NEWTON,USA,3:47:33
+W,Marathon,Athens,2004,,,B,Deena KASTOR,USA,2:27:20
+M,Marathon,Melbourne / Stockholm,1956,,S,,Franjo MIHALIC,YUG,2:26:32
